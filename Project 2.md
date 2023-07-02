@@ -12,6 +12,7 @@
 <img width="697" alt="Screen Shot 2023-07-02 at 14 23 40" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/71dcf297-3bac-40ab-9d4b-0e4ca530035f">
 
 #### * The web page was accessed in the browser by visiting the domain name/public IP address that was set up in the Nginx configuration file followed by /info.php as shown below.
+![Screen Shot 2023-07-02 at 14 42 42](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/069ca5a6-af84-4437-ab55-5791c0ed06fc)
 
 #### * The web page containing the detailed infomation about the server is then displayed as shown below.
 
