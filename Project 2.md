@@ -18,7 +18,7 @@
 ![Screen Shot 2023-07-02 at 14 43 00](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/8f8e5535-c157-4b4b-ba0d-bd9d5764936d)
 
 ### -- last step was was to retrieve data from MySQL database with PHP.
-###### * Connect to the MySQL console using as shown below.
+###### * Connect to the MySQL console as shown below.
 <img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
 
 ###### * A new database was created by running the command below from my MySQL console.
