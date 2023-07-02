@@ -17,3 +17,8 @@
 ###### * The web page containing the detailed infomation about the server is then displayed as shown below.
 ![Screen Shot 2023-07-02 at 14 43 00](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/8f8e5535-c157-4b4b-ba0d-bd9d5764936d)
 
+### -- last step was was to retrieve data from MySQL database with PHP.
+###### * Connect to the MySQL console using as shown below.
+###### * A new database was created by running the command below from my MySQL console.
+
+
