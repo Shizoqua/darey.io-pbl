@@ -19,6 +19,10 @@
 
 ### -- last step was was to retrieve data from MySQL database with PHP.
 ###### * Connect to the MySQL console using as shown below.
+<img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
+
 ###### * A new database was created by running the command below from my MySQL console.
+<img width="698" alt="Screen Shot 2023-07-02 at 15 01 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/3f7821df-b1f4-4181-985d-5ce6be2e2953">
+
 
 
