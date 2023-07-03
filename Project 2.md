@@ -75,8 +75,11 @@
 
 <img width="800" alt="Screen Shot 2023-07-03 at 06 32 45" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/40e3ee9d-8dbd-4894-80ea-3d6abd979db7">
 
-###### * After the file was saved and closed after editing it, the page is now viewed on the web browser using "http://<Public_domain_or_IP>/todo_list.php
-". The outcome is shown below.
+###### * After the file was saved and closed after editing it, the page is now viewed on web browser using "http://<Public_domain_or_IP>/todo_list.php". 
+######  The outcome is shown below.
+
+![Screen Shot 2023-07-03 at 14 47 26](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/082f2e25-be1e-4572-acc2-382b599de599)
+
 
 
 
