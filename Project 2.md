@@ -39,6 +39,10 @@
 ###### * The command linebelow was run to test if the new user has the proper permissions by logging in to the MySQL console again, this time using the custom user credentials.
 <img width="701" alt="Screen Shot 2023-07-02 at 17 54 58" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/0de0e1ba-d28f-416b-971f-64e474c3e2f1">
 
+###### * After logging in to the MySQL console, confirm that you have access to the example_database database runing the command below.
+<img width="699" alt="Screen Shot 2023-07-02 at 18 05 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/d18fe1a0-b56e-4def-adee-7cfaaf5aa495">
+-64e474c3e2f1">
+
 
 
 
