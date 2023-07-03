@@ -55,11 +55,17 @@
 ###### * Test table named todo_list was created with the command below.
 <img width="700" alt="Screen Shot 2023-07-02 at 18 55 39" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/bea63e93-3f97-403f-801d-54f42eb513fa">
 
-###### * 4 rows were using diferent values.
+###### * 4 rows were instered using diferent values with the comand line below. The first row is "My first important item", second row is "My second important item", third row is "My very third important item" and the fourth row is "and this one more thing".
 <img width="699" alt="Screen Shot 2023-07-02 at 18 56 01" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/a988b169-5f01-414c-bdb3-2c20f78c0ce6">
 
-###### * The command was to confirm that the data was successfully saved to the table.
+<img width="797" alt="Screen Shot 2023-07-03 at 06 10 07" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/2f2ed081-3680-4aa8-ae74-fb1392a4ea84">
+
+
+###### * The command was to confirm that the data was successfully saved to the table and to present to us all the data we inserted in tabular form.
 <img width="703" alt="Screen Shot 2023-07-02 at 18 56 21" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/051b9f54-9ab3-40af-a17b-d12ba15b1ebd">
+
+<img width="798" alt="Screen Shot 2023-07-03 at 06 12 31" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/104f1e51-d217-4dac-b330-05f2778458a6">
+
 
 
 
