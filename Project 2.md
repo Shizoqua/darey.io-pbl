@@ -50,6 +50,9 @@
 ###### * After logging in to the MySQL console, confirm that you have access to the example_database database runing the command below.
 <img width="699" alt="Screen Shot 2023-07-02 at 18 05 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/d18fe1a0-b56e-4def-adee-7cfaaf5aa495">
 
+<img width="796" alt="Screen Shot 2023-07-02 at 18 41 26" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/a8c73132-2771-452c-abea-3d56f6bfab2f">
+
+
 
 
 
