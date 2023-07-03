@@ -52,6 +52,14 @@
 
 <img width="796" alt="Screen Shot 2023-07-02 at 18 41 26" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/a8c73132-2771-452c-abea-3d56f6bfab2f">
 
+###### * Test table named todo_list was created with the command below.
+<img width="700" alt="Screen Shot 2023-07-02 at 18 55 39" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/bea63e93-3f97-403f-801d-54f42eb513fa">
+
+###### * 4 rows were using diferent values.
+<img width="699" alt="Screen Shot 2023-07-02 at 18 56 01" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/a988b169-5f01-414c-bdb3-2c20f78c0ce6">
+
+###### * The command was to confirm that the data was successfully saved to the table.
+<img width="703" alt="Screen Shot 2023-07-02 at 18 56 21" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/051b9f54-9ab3-40af-a17b-d12ba15b1ebd">
 
 
 
