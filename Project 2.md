@@ -25,17 +25,21 @@
 <img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
 
 
-![Screen Shot 2023-07-02 at 18 11 03](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/8e6bd85b-6de2-4dd9-aeb8-c8d321843eb5)
+<img width="798" alt="Screen Shot 2023-07-02 at 18 24 47" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/2f98844f-c775-443d-8340-d425b81bbebc">
 
 
 ###### * A new database was created by running the command below from my MySQL console.
 <img width="698" alt="Screen Shot 2023-07-02 at 15 01 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/3f7821df-b1f4-4181-985d-5ce6be2e2953">
+
 
 ###### * A new user was named example_user using mysql_native_password as default authentication method and the password as "password". The password could be replaced with a choice of yours. 
 <img width="700" alt="Screen Shot 2023-07-02 at 17 41 29" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/450eeed6-5534-4b16-a439-e9737b4a5e8a">
 
 ###### * The new user was granted full privileges over the database using the command below. 
 <img width="699" alt="Screen Shot 2023-07-02 at 17 41 53" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/55522d4b-a6e9-4cf0-a30a-300ac5eb4cff">
+
+<img width="803" alt="Screen Shot 2023-07-02 at 18 34 42" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/31eb1e23-e8c4-424a-abc1-2a2df5032508">
+
 
 ###### * The MySQL shell was then exited using the command line below.
 <img width="700" alt="Screen Shot 2023-07-02 at 17 54 42" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/4f2b947d-9f2b-4169-a1c6-db75319b08e4">
