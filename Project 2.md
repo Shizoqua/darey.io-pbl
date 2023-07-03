@@ -17,7 +17,9 @@
 ###### * The web page containing the detailed infomation about the server is then displayed as shown below.
 ![Screen Shot 2023-07-02 at 14 43 00](https://github.com/Shizoqua/darey.io-pbl/assets/136805224/8f8e5535-c157-4b4b-ba0d-bd9d5764936d)
 
-### -- last step was was to retrieve data from MySQL database with PHP. In this step, a test database (DB) was created with simple “To do list” with an access configured to it, so the Nginx website could be able to query data from the database (DB) and display it. The database wasnamed example_database and a user named example_user, but these could be replaced with any names of your choice.
+### -- last step was was to retrieve data from MySQL database with PHP. 
+
+###### * In this step, a test database (DB) was created with simple “To do list” with an access configured to it, so the Nginx website could be able to query data from the database (DB) and display it. The database wasnamed example_database and a user named example_user, but these could be replaced with any names of your choice.
 
 ###### * Connect to the MySQL console as shown below.
 <img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
