@@ -19,7 +19,7 @@
 
 ### -- last step was was to retrieve data from MySQL database with PHP. 
 
-###### * In this step, a test database (DB) was created with simple “To do list” with an access configured to it, so the Nginx website could be able to query data from the database (DB) and display it. The database wasnamed example_database and a user named example_user, but these could be replaced with any names of your choice.
+###### In this step, a test database (DB) was created with simple “To do list” with an access configured to it, so the Nginx website could be able to query data from the database (DB) and display it. The database wasnamed example_database and a user named example_user, but these could be replaced with any names of your choice. The stages in achieving this are highlighted below.
 
 ###### * Connect to the MySQL console as shown below.
 <img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
