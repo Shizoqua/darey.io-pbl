@@ -33,5 +33,12 @@
 ###### * The new user was granted full privileges over the database using the command below. 
 <img width="699" alt="Screen Shot 2023-07-02 at 17 41 53" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/55522d4b-a6e9-4cf0-a30a-300ac5eb4cff">
 
+###### * The MySQL shell was then exited using the command line below.
+<img width="700" alt="Screen Shot 2023-07-02 at 17 54 42" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/4f2b947d-9f2b-4169-a1c6-db75319b08e4">
+
+###### * The command linebelow was run to test if the new user has the proper permissions by logging in to the MySQL console again, this time using the custom user credentials.
+<img width="701" alt="Screen Shot 2023-07-02 at 17 54 58" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/0de0e1ba-d28f-416b-971f-64e474c3e2f1">
+
+
 
 
