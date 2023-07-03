@@ -28,7 +28,10 @@
 <img width="698" alt="Screen Shot 2023-07-02 at 15 01 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/3f7821df-b1f4-4181-985d-5ce6be2e2953">
 
 ###### * A new user was named example_user using mysql_native_password as default authentication method and the password as "password". The password could be replaced with a choice of yours. 
+<img width="700" alt="Screen Shot 2023-07-02 at 17 41 29" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/450eeed6-5534-4b16-a439-e9737b4a5e8a">
 
-###### The new user was granted full privileges over the database using the command below. 
+###### * The new user was granted full privileges over the database using the command below. 
+<img width="699" alt="Screen Shot 2023-07-02 at 17 41 53" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/55522d4b-a6e9-4cf0-a30a-300ac5eb4cff">
+
 
 
