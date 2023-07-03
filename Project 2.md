@@ -19,7 +19,7 @@
 
 ### -- last step was was to retrieve data from MySQL database with PHP. 
 
-###### In this step, a test database (DB) was created with simple “To do list” with an access configured to it, so the Nginx website could be able to query data from the database (DB) and display it. The database wasnamed example_database and a user named example_user, but these could be replaced with any names of your choice. The stages in achieving this are highlighted below.
+###### In this step, a test database (DB) was created with simple “To do list” with an access configured to it so the Nginx website could be able to query data from the database (DB) and display it. The database was named example_database and a user named example_user, but these could be replaced with any names of your choice. The stages in achieving this are highlighted below.
 
 ###### * Connect to the MySQL console as shown below.
 <img width="703" alt="Screen Shot 2023-07-02 at 15 00 50" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/77a127c1-ce8e-4c68-ae6f-01cd408d7843">
@@ -27,6 +27,8 @@
 ###### * A new database was created by running the command below from my MySQL console.
 <img width="698" alt="Screen Shot 2023-07-02 at 15 01 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/3f7821df-b1f4-4181-985d-5ce6be2e2953">
 
-###### * A new 
+###### * A new user was named example_user using mysql_native_password as default authentication method and the password as "password". The password could be replaced with a choice of yours. 
+
+###### The new user was granted full privileges over the database using the command below. 
 
 
