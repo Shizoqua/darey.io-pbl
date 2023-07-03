@@ -41,7 +41,7 @@
 
 ###### * After logging in to the MySQL console, confirm that you have access to the example_database database runing the command below.
 <img width="699" alt="Screen Shot 2023-07-02 at 18 05 12" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/d18fe1a0-b56e-4def-adee-7cfaaf5aa495">
--64e474c3e2f1">
+
 
 
 
