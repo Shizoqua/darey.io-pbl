@@ -61,10 +61,26 @@
 <img width="797" alt="Screen Shot 2023-07-03 at 06 10 07" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/2f2ed081-3680-4aa8-ae74-fb1392a4ea84">
 
 
-###### * The command was to confirm that the data was successfully saved to the table and to present to us all the data we inserted in tabular form.
+###### * The command was to confirm that the data was successfully saved to the table and to present to us all the data we inserted in tabular form.After this, we can exit the MySQL environment with (mysql> exit).
 <img width="703" alt="Screen Shot 2023-07-02 at 18 56 21" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/051b9f54-9ab3-40af-a17b-d12ba15b1ebd">
 
 <img width="798" alt="Screen Shot 2023-07-03 at 06 12 31" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/104f1e51-d217-4dac-b330-05f2778458a6">
+
+###### * PHP script was created next with the command below to conect to the MySQL database and to query for the content of the todo_list table. 
+<img width="700" alt="Screen Shot 2023-07-03 at 06 24 22" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/79de425a-884b-4301-87fc-27252f6baa25">
+
+
+###### * The content below was copied into the todo_list.php script.
+<img width="701" alt="Screen Shot 2023-07-03 at 06 24 53" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/25cc4bd9-97d7-43b7-9ec5-236343e395f1">
+
+<img width="800" alt="Screen Shot 2023-07-03 at 06 32 45" src="https://github.com/Shizoqua/darey.io-pbl/assets/136805224/40e3ee9d-8dbd-4894-80ea-3d6abd979db7">
+
+###### * After the file was saved and closed after editing it, the page is now viewed on the web browser using "http://<Public_domain_or_IP>/todo_list.php
+". The outcome is shown below.
+
+
+
+
 
 
 
